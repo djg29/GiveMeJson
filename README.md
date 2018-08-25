@@ -1,2 +1,2 @@
 # GiveMeJson
-Minimalistic scala json parser
+Minimalistic scala json parser - WIP
